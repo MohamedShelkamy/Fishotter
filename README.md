@@ -5,3 +5,10 @@ DUNE: Unified Navigation Environment is a runtime environment for unmanned syste
 
 [![Build Status](https://travis-ci.org/LSTS/dune.svg?branch=master)](https://travis-ci.org/LSTS/dune)
 [![Build status](https://ci.appveyor.com/api/projects/status/tdcdgyf408u4y0ng?svg=true)](https://ci.appveyor.com/project/zepinto/dune) 
+
+
+this Repo is edited by the fishotter system developer , the work was done under the supervision of professor Jo Alfredson , 
+this public repo just for the report so it has only one commit as I moved the work from the private repo i created during the project to this public one. you can check the added. the hard part was the integration with the already implemented system. you can find the formation control algorithm under src\maneuvers\FollowOtter and the configuration files in etc\development\NTNU-FishOtter1,3,4.
+
+
+Thaks for your time :) 
